@@ -73,7 +73,7 @@ To get started with the Face Parsing Model, clone this repository and install th
 
 ```commandline
 git clone https://github.com/yakhyo/face-parsing.git
-cd face-parsing-model
+cd face-parsing
 pip install -r requirements.txt
 ```
 
